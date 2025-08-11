@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NTC09
-- 👀 I’m interested in embedded C/C++
+- 👀 I’m working with C/C++/Java...
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on automotive
+- 💞️ I’m ann Android Wi-Fi System Developer
 - 📫 Contact me at: thanhcuong2k@gmail.com
 
 <!---
