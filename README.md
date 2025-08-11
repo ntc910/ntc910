@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NTC09
 - 👀 I’m working with C/C++/Java...
-- 🌱 I’m currently learning AI
-- 💞️ I’m ann Android Wi-Fi System Developer
+- 🌱 I’m also working with AI
+- 💞️ I’m an Android Wi-Fi System Developer
 - 📫 Contact me at: thanhcuong2k@gmail.com
 
 <!---
