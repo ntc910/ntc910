@@ -1,4 +1,4 @@
- - 👋 Hi, I’m @NTC09
+ - 👋 Hi, I’m @ntc910
 - 👀 I’m working with C/C++/Java/Python
 - 🌱 I’m also working as a mentor in DSA, Clean Code, TDD and Refactoring
 - 💞️ I’m an Android Wi-Fi System Developer
