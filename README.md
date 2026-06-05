@@ -4,6 +4,9 @@
 - 💞️ I’m an Android Wi-Fi System Developer
 - 📫 Contact me at: thanhcuong2k@gmail.com
 
+- AI skill builder
+- Arch linux user
+
 <!---
 NTC09/NTC09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
