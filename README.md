@@ -27,13 +27,14 @@
 | **Development Practices** | `TDD` `Refactoring` `Clean Code` `Design Patterns` |
 | **Other Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
----
+<!-- ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ntc910&show_icons=true&theme=tokyonight" alt="ntc910's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntc910&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
+</p> -->
+
 
 ---
 
