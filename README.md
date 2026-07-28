@@ -1,4 +1,4 @@
-# ⚡ Hello, I'm Cuong (ntc910) 
+# ⚡ Hello, I'm Cuong
 ### 🚀 Android Wi-Fi System Developer | DSA Mentor | Clean Code Enthusiast
 
 <p align="left">
